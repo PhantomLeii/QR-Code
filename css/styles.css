@@ -65,3 +65,17 @@ main {
     color: var(--grayish-blue);
     font-weight: 400;
 }
+
+@media (orientation: landscape) {
+
+    main {
+        height: fit-content;
+        padding: 25px 0;
+    }
+    
+    html {
+        overflow: scroll;
+        scroll-behavior: smooth;
+    }
+
+}
