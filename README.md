@@ -23,4 +23,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
    ![](./soultions/desktop_solution_preview.png)
 
 2. Mobile:
-   ![](./soultions/mobile_solution_preview.png)
+   <img src="./soultions/mobile_solution_preview.png" height="800px"/>
